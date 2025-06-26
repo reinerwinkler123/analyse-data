@@ -1,1 +1,6 @@
-{}
+{
+  "Michi": {
+    "password": "Admin",
+    "webhook": "https://discord.com/api/webhooks/1387824961959497850/TTYCNXWo3J0Ban5SmFHkuOwAMNKGZyAPhO14pAOJiLJWK8G5mkguSsDQTnzMslEiCme2"
+  }
+}
