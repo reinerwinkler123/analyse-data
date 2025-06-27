@@ -73,5 +73,20 @@
     "hash": "d16f4df6d0a0b0993748bd01ffd6f4ef8bdf1a57399f4310583986b9fbf0be40",
     "type": "sha256",
     "text": "Free Cheat Detected"
+  },
+  {
+    "hash": "1028f27284a3f8fbe85149259e541084",
+    "type": "md5",
+    "text": "Uzui Detected"
+  },
+  {
+    "hash": "f7c518847e60669ec203f0d69432ca467c82c016",
+    "type": "sha1",
+    "text": "Uzui Detected"
+  },
+  {
+    "hash": "b309515b9866bbc141ba0e5a72b7498cdd73e5e3ac011fedcfd7e29e352929e5",
+    "type": "sha256",
+    "text": "Uzui Detected"
   }
 ]
