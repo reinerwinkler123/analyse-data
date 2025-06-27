@@ -118,5 +118,20 @@
     "hash": "a014c958662482b6f2709ba35ee67d76cc9d82c3a1d3a065904535993e9420bb",
     "type": "sha256",
     "text": "Triggerbot Detected [Cocuk]"
+  },
+  {
+    "hash": "8157a6bc2aa71020450d65a61ad618a1",
+    "type": "md5",
+    "text": "Triggerbot Detected [Vortex]"
+  },
+  {
+    "hash": "76898af1c1885e3942afdd19f43850b45e6c7415",
+    "type": "sha1",
+    "text": "Triggerbot Detected [Vortex]"
+  },
+  {
+    "hash": "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e",
+    "type": "sha256",
+    "text": "Triggerbot Detected [Vortex]"
   }
 ]
