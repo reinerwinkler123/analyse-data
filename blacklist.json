@@ -133,5 +133,20 @@
     "hash": "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e",
     "type": "sha256",
     "text": "Triggerbot Detected [Vortex]"
+  },
+  {
+    "hash": "a9b768c923a0610bd3e2f665d6b3d42b",
+    "type": "md5",
+    "text": "Tz Project Detected"
+  },
+  {
+    "hash": "546ee64a888d2d49524d55912ce839ab4977f947",
+    "type": "sha1",
+    "text": "Tz Project Detected"
+  },
+  {
+    "hash": "ca6052691c017cb497f4866eee4f69bdf3e1f8a6e0bf89f54362ff0d76aa4c4b",
+    "type": "sha256",
+    "text": "Tz Project Detected"
   }
 ]
