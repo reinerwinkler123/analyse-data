@@ -148,5 +148,20 @@
     "hash": "ca6052691c017cb497f4866eee4f69bdf3e1f8a6e0bf89f54362ff0d76aa4c4b",
     "type": "sha256",
     "text": "Tz Project Detected"
+  },
+  {
+    "hash": "0f08679cefdb54565173bd0eca0924e0",
+    "type": "md5",
+    "text": "Triggerbot Detected [Cyberdienst]"
+  },
+  {
+    "hash": "ca1f2a6d0b86666144a2b8172e164899e717d34b",
+    "type": "sha1",
+    "text": "Triggerbot Detected [Cyberdienst]"
+  },
+  {
+    "hash": "8207bc36fef0e6bddde92f7b69eec560af2b4aee39e4a7e8ff951649564f3515",
+    "type": "sha256",
+    "text": "Triggerbot Detected [Cyberdienst]"
   }
 ]
