@@ -1,1 +1,17 @@
-{}
+[
+  {
+    "hash": "1d1efb20e0e19860877fc6680c5a418f",
+    "type": "md5",
+    "text": "Loader Detected"
+  },
+  {
+    "hash": "52155e1aed76a17c5e018cfba09e71173555b64a",
+    "type": "sha1",
+    "text": "Loader Detected"
+  },
+  {
+    "hash": "1eb1b22b20f4d3b103c225bbdb25c15331022647720a4ef00a6d87809dcd144f",
+    "type": "sha256",
+    "text": "Loader Detected"
+  }
+]
