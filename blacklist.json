@@ -163,5 +163,20 @@
     "hash": "d2b6467fbb3d90213382482b8472ebec9863111a21498af4a264ecb297b6ed3a",
     "type": "sha256",
     "text": "Triggerbot [Triggerbot-xyz]"
+  },
+  {
+    "hash": "dc15fad7b495c284ae11b0c246e6e8e4",
+    "type": "md5",
+    "text": "Susano Detected"
+  },
+  {
+    "hash": "dca0a457cca14e760fc6afabde33b0bbb057c782",
+    "type": "sha1",
+    "text": "Susano Detected"
+  },
+  {
+    "hash": "db30929b083d883ad4246b8587d7503a7df4c2889683e5f6609f3ac5abdb232e",
+    "type": "sha256",
+    "text": "Susano Detected"
   }
 ]
