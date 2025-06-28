@@ -214,5 +214,17 @@
   "a020e2e092b9b649fa91b4c67a8d6907e9a5c51bac6e2161fadcf66bbf496d3d": {
     "type": "sha256",
     "text": "Free Cheat Detected [Setup]"
+  },
+  "997a63cbc2c4155b3cc54a8a0497967d": {
+    "type": "md5",
+    "text": "Free Cheat Detected [Soft]"
+  },
+  "0ab5f087dd15d8d338a1d2c23af5266ce1cfdae5": {
+    "type": "sha1",
+    "text": "Free Cheat Detected [Soft]"
+  },
+   "f936b78057e9b841a868cefa00d47a922ddfece923f26390e441d4f82dfd2c25": {
+    "type": "sha256",
+    "text": "Free Cheat Detected [Soft]"
   }
 }
