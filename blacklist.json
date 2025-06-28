@@ -199,8 +199,20 @@
     "type": "sha1",
     "text": "Free Cheat Detected [Launch]"
   },
-    "67790a295652890d82aa4039383b1e53f6dc89d1c2e8b935aab1e9403ed2bdc4": {
+  "67790a295652890d82aa4039383b1e53f6dc89d1c2e8b935aab1e9403ed2bdc4": {
     "type": "sha256",
     "text": "Free Cheat Detected [Launch]"
   },
+  "702180b924cf706e580f65d42222728e": {
+    "type": "md5",
+    "text": "Free Cheat Detected [Setup]"
+  },
+  "95dc0dde723ec6cb490eeccc886fadcd9867c886": {
+    "type": "sha1",
+    "text": "Free Cheat Detected [Setup]"
+  },
+  "a020e2e092b9b649fa91b4c67a8d6907e9a5c51bac6e2161fadcf66bbf496d3d": {
+    "type": "sha256",
+    "text": "Free Cheat Detected [Setup]"
+  }
 }
