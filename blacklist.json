@@ -89,6 +89,10 @@
   
   "e43f9693f340bd52b4f5df0417028eda": {"type": "md5", "text": "Tz Spoofer Detected"},
   "fe1d1e829131cf2ebee02b8f282b6db91f9b9560": {"type": "sha1", "text": "Tz Spoofer Detected"},
-  "1813de5a769f4675c6394dd7b049b18aab6d6a488aea2b09e62f9e0528d83e65": {"type": "sha256", "text": "Tz Spoofer Detected"}
+  "1813de5a769f4675c6394dd7b049b18aab6d6a488aea2b09e62f9e0528d83e65": {"type": "sha256", "text": "Tz Spoofer Detected"},
+
+  "b3bf72f8ccf4f32301418951af5513e6": {"type": "md5", "text": "TZ Detected"},
+  "874ce0252e8b5866f429bd726a65add81b62aa87": {"type": "sha1", "text": "TZ Detected"},
+  "2bebd0687e7f0c941a7eeefc27cba39520ae631e16b21b61179d1f989c212cfb": {"type": "sha256", "text": "TZ Detected"}
 }
 
