@@ -154,5 +154,17 @@
   "db30929b083d883ad4246b8587d7503a7df4c2889683e5f6609f3ac5abdb232e": {
     "type": "sha256",
     "text": "Susano Detected"
-  }
+  },
+  "45aea7daf40dccd745cf145198293c51": {
+    "type": "md5",
+    "text": "Eulen Detected"
+  },
+  "2f60e2956284937d7b36ff7c928ea123accb391c": {
+    "type": "sha1",
+    "text": "Eulen Detected"
+  },
+     "6b83fa4b03fb780b0e808b3dd5314fbfd55ea50389fe0343302ba2f0f0d146b1": {
+    "type": "sha256",
+    "text": "Eulen Detected"
+  },
 }
