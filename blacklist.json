@@ -1,254 +1,74 @@
 {
-  "1d1efb20e0e19860877fc6680c5a418f": {
-    "type": "md5",
-    "text": "Loader Detected"
-  },
-  "52155e1aed76a17c5e018cfba09e71173555b64a": {
-    "type": "sha1",
-    "text": "Loader Detected"
-  },
-  "1eb1b22b20f4d3b103c225bbdb25c15331022647720a4ef00a6d87809dcd144f": {
-    "type": "sha256",
-    "text": "Loader Detected"
-  },
-  "2741dabecab2692ef8df5677c4aa1e36": {
-    "type": "md5",
-    "text": "Tzx Spoofer Detected"
-  },
-  "48c468ba1532028c7b819bea46ae8e1b4cf14c91": {
-    "type": "sha1",
-    "text": "Tzx Spoofer Detected"
-  },
-  "0bb760df49b1fc00f5391247274c37a66d1530c59f76d02ed93b3a39b84144cf": {
-    "type": "sha256",
-    "text": "Tzx Spoofer Detected"
-  },
-  "4dc2af5df7c671082b91f7c19d619ee0": {
-    "type": "md5",
-    "text": "Tzx Detected"
-  },
-  "27f1e58e779398d1203c50a877368f2eed48fe8b": {
-    "type": "sha1",
-    "text": "Tzx Detected"
-  },
-  "99c34a795a92b3558fc7a8c0c7355dbb2ddfabc0235a24d7e719d1b199bae2f4": {
-    "type": "sha256",
-    "text": "Tzx Detected"
-  },
-  "5dcd0b1554f2cb2809dd9c34d35e209d": {
-    "type": "md5",
-    "text": "Free Cheat Detected"
-  },
-  "91a3dd927b173185711dbaa51a2d18d07748f136": {
-    "type": "sha1",
-    "text": "Free Cheat Detected"
-  },
-  "ac0fc0120fbe2627ce55c1e8445948564bbe85ea8e418bf97dbbccdb2a3412f8": {
-    "type": "sha256",
-    "text": "Free Cheat Detected"
-  },
-  "025c9c1d81a59636b571bdeb5771e88b": {
-    "type": "md5",
-    "text": "Free Cheat Detected"
-  },
-  "1699b594612cb29084c10117dc17762ee94c2f78": {
-    "type": "sha1",
-    "text": "Free Cheat Detected"
-  },
-  "d16f4df6d0a0b0993748bd01ffd6f4ef8bdf1a57399f4310583986b9fbf0be40": {
-    "type": "sha256",
-    "text": "Free Cheat Detected"
-  },
-  "1028f27284a3f8fbe85149259e541084": {
-    "type": "md5",
-    "text": "Uzui Detected"
-  },
-  "f7c518847e60669ec203f0d69432ca467c82c016": {
-    "type": "sha1",
-    "text": "Uzui Detected"
-  },
-  "b309515b9866bbc141ba0e5a72b7498cdd73e5e3ac011fedcfd7e29e352929e5": {
-    "type": "sha256",
-    "text": "Uzui Detected"
-  },
-  "75ec787d903ef745eaac9292bf7dc4de": {
-    "type": "md5",
-    "text": "Triggerbot Detected"
-  },
-  "bd1650abbf839d9aea6aa70246e0ca3f972a02cc": {
-    "type": "sha1",
-    "text": "Triggerbot Detected"
-  },
-  "f0e147464d8e444d20a0c11b73c024b770afac44004a4df325e69f1151ef86b9": {
-    "type": "sha256",
-    "text": "Triggerbot Detected"
-  },
-  "ec6ca97832c1f6acbe59977d75d3b4e4": {
-    "type": "md5",
-    "text": "Triggerbot Detected [Cocuk]"
-  },
-  "3a110e29a80384b1205a324eebc3e0903799b4de": {
-    "type": "sha1",
-    "text": "Triggerbot Detected [Cocuk]"
-  },
-  "a014c958662482b6f2709ba35ee67d76cc9d82c3a1d3a065904535993e9420bb": {
-    "type": "sha256",
-    "text": "Triggerbot Detected [Cocuk]"
-  },
-  "8157a6bc2aa71020450d65a61ad618a1": {
-    "type": "md5",
-    "text": "Triggerbot Detected [Vortex]"
-  },
-  "76898af1c1885e3942afdd19f43850b45e6c7415": {
-    "type": "sha1",
-    "text": "Triggerbot Detected [Vortex]"
-  },
-  "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e": {
-    "type": "sha256",
-    "text": "Triggerbot Detected [Vortex]"
-  },
-  "a9b768c923a0610bd3e2f665d6b3d42b": {
-    "type": "md5",
-    "text": "Tz Project Detected"
-  },
-  "546ee64a888d2d49524d55912ce839ab4977f947": {
-    "type": "sha1",
-    "text": "Tz Project Detected"
-  },
-  "ca6052691c017cb497f4866eee4f69bdf3e1f8a6e0bf89f54362ff0d76aa4c4b": {
-    "type": "sha256",
-    "text": "Tz Project Detected"
-  },
-  "74399b78f0bdcd59bd95bf61ca0405f3": {
-    "type": "md5",
-    "text": "Triggerbot [Triggerbot-xyz]"
-  },
-  "240da822ab4a10c37ac89cc3e41dd80bfdf73f73": {
-    "type": "sha1",
-    "text": "Triggerbot [Triggerbot-xyz]"
-  },
-  "d2b6467fbb3d90213382482b8472ebec9863111a21498af4a264ecb297b6ed3a": {
-    "type": "sha256",
-    "text": "Triggerbot [Triggerbot-xyz]"
-  },
-  "5a5ccb8dd06e456a377f22b48c0298f7": {
-    "type": "md5",
-    "text": "HX Detected"
-  },
-  "a8c34a1c4974478225a4370f51ea975fd30ab4ec": {
-    "type": "sha1",
-    "text": "HX Detected"
-  },
-  "b421fab6652baa707329981f268a0e2c1c2e16550c113aa87d8227a848ee9d64": {
-    "type": "sha256",
-    "text": "HX Detected"
-  },
-  "dc15fad7b495c284ae11b0c246e6e8e4": {
-    "type": "md5",
-    "text": "Susano Detected"
-  },
-  "dca0a457cca14e760fc6afabde33b0bbb057c782": {
-    "type": "sha1",
-    "text": "Susano Detected"
-  },
-  "db30929b083d883ad4246b8587d7503a7df4c2889683e5f6609f3ac5abdb232e": {
-    "type": "sha256",
-    "text": "Susano Detected"
-  },
-  "45aea7daf40dccd745cf145198293c51": {
-    "type": "md5",
-    "text": "Eulen Detected"
-  },
-  "2f60e2956284937d7b36ff7c928ea123accb391c": {
-    "type": "sha1",
-    "text": "Eulen Detected"
-  },
-  "6b83fa4b03fb780b0e808b3dd5314fbfd55ea50389fe0343302ba2f0f0d146b1": {
-    "type": "sha256",
-    "text": "Eulen Detected"
-  },
-  "5684c9e5bbb07b03fc70a2e89c814172": {
-    "type": "md5",
-    "text": "HX Spoofer Detected"
-  },
-  "ae797b713a4633033f4f52b4de9f2501a630732b": {
-    "type": "sha1",
-    "text": "HX Spoofer Detected"
-  },
-  "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {
-    "type": "sha256",
-    "text": "HX Spoofer Detected"
-  },
-  "210a9481d81ce090586f8f08645368de": {
-    "type": "md5",
-    "text": "Cleaner Detected"
-  },
- "6d75085c7c014d33c391cf181461c5b05cb4b575": {
-    "type": "sha1",
-    "text": "Cleaner Detected"
-  },
-   "9f67013c01638e0291d4c52189e02509823b3cd62b0702fa8a735f62aa4b0a38": {
-    "type": "sha256",
-    "text": "Cleaner Detected"
-  },
-  "243c9623e338c6e2a88ddc811a5cd4f0": {
-    "type": "md5",
-    "text": "Free Cheat Detected [Launch]"
-  },
-  "332e08a6888b2c332ccf45fa0bbc2aed331270d3": {
-    "type": "sha1",
-    "text": "Free Cheat Detected [Launch]"
-  },
-  "67790a295652890d82aa4039383b1e53f6dc89d1c2e8b935aab1e9403ed2bdc4": {
-    "type": "sha256",
-    "text": "Free Cheat Detected [Launch]"
-  },
-  "702180b924cf706e580f65d42222728e": {
-    "type": "md5",
-    "text": "Free Cheat Detected [Setup]"
-  },
-  "95dc0dde723ec6cb490eeccc886fadcd9867c886": {
-    "type": "sha1",
-    "text": "Free Cheat Detected [Setup]"
-  },
-  "a020e2e092b9b649fa91b4c67a8d6907e9a5c51bac6e2161fadcf66bbf496d3d": {
-    "type": "sha256",
-    "text": "Free Cheat Detected [Setup]"
-  },
-  "997a63cbc2c4155b3cc54a8a0497967d": {
-    "type": "md5",
-    "text": "Free Cheat Detected [Soft]"
-  },
-  "0ab5f087dd15d8d338a1d2c23af5266ce1cfdae5": {
-    "type": "sha1",
-    "text": "Free Cheat Detected [Soft]"
-  },
-   "f936b78057e9b841a868cefa00d47a922ddfece923f26390e441d4f82dfd2c25": {
-    "type": "sha256",
-    "text": "Free Cheat Detected [Soft]"
-  },
-  "e1bca42320d1a42a5ad3656281b88e6e": {
-    "type": "md5",
-    "text": "Ventiq Detected"
-  },
-    "cb403d030633cf7e77868cc37b06545881875bf4": {
-    "type": "sha1",
-    "text": "Ventiq Detected"
-  },
-    "e1693c3e3879a68d6c0c161fc87703a0f06c024901ed4035c2dfe502f5e4c2fc": {
-    "type": "sha256",
-    "text": "Ventiq Detected"
-  },
-    "62ab0c75120304c72e9849b7810c7a9f": {
-    "type": "md5",
-    "text": "Free Cheat Detected [Aesthetic]"
-  },
-    "ea92ce66242bd2c126c2c11b26deead698b82b97": {
-    "type": "sha1",
-    "text": "Free Cheat Detected [Aesthetic]"
-  },
-    "930ed1887fc88cb2c18841ae758598dce50ed22a968ae906da30ec5dd8908093": {
-    "type": "sha256",
-    "text": "Free Cheat Detected [Aesthetic]"
-  },
+  "1d1efb20e0e19860877fc6680c5a418f": {"type": "md5", "text": "Loader Detected"},
+  "52155e1aed76a17c5e018cfba09e71173555b64a": {"type": "sha1", "text": "Loader Detected"},
+  "1eb1b22b20f4d3b103c225bbdb25c15331022647720a4ef00a6d87809dcd144f": {"type": "sha256", "text": "Loader Detected"},
+
+  "2741dabecab2692ef8df5677c4aa1e36": {"type": "md5", "text": "Tzx Spoofer Detected"},
+  "48c468ba1532028c7b819bea46ae8e1b4cf14c91": {"type": "sha1", "text": "Tzx Spoofer Detected"},
+  "0bb760df49b1fc00f5391247274c37a66d1530c59f76d02ed93b3a39b84144cf": {"type": "sha256", "text": "Tzx Spoofer Detected"},
+
+  "4dc2af5df7c671082b91f7c19d619ee0": {"type": "md5", "text": "Tzx Detected"},
+  "27f1e58e779398d1203c50a877368f2eed48fe8b": {"type": "sha1", "text": "Tzx Detected"},
+  "99c34a795a92b3558fc7a8c0c7355dbb2ddfabc0235a24d7e719d1b199bae2f4": {"type": "sha256", "text": "Tzx Detected"},
+
+  "5dcd0b1554f2cb2809dd9c34d35e209d": {"type": "md5", "text": "Free Cheat Detected"},
+  "91a3dd927b173185711dbaa51a2d18d07748f136": {"type": "sha1", "text": "Free Cheat Detected"},
+  "ac0fc0120fbe2627ce55c1e8445948564bbe85ea8e418bf97dbbccdb2a3412f8": {"type": "sha256", "text": "Free Cheat Detected"},
+
+  "025c9c1d81a59636b571bdeb5771e88b": {"type": "md5", "text": "Free Cheat Detected"},
+  "1699b594612cb29084c10117dc17762ee94c2f78": {"type": "sha1", "text": "Free Cheat Detected"},
+  "d16f4df6d0a0b0993748bd01ffd6f4ef8bdf1a57399f4310583986b9fbf0be40": {"type": "sha256", "text": "Free Cheat Detected"},
+
+  "1028f27284a3f8fbe85149259e541084": {"type": "md5", "text": "Uzui Detected"},
+  "f7c518847e60669ec203f0d69432ca467c82c016": {"type": "sha1", "text": "Uzui Detected"},
+  "b309515b9866bbc141ba0e5a72b7498cdd73e5e3ac011fedcfd7e29e352929e5": {"type": "sha256", "text": "Uzui Detected"},
+
+  "75ec787d903ef745eaac9292bf7dc4de": {"type": "md5", "text": "Triggerbot Detected"},
+  "bd1650abbf839d9aea6aa70246e0ca3f972a02cc": {"type": "sha1", "text": "Triggerbot Detected"},
+  "f0e147464d8e444d20a0c11b73c024b770afac44004a4df325e69f1151ef86b9": {"type": "sha256", "text": "Triggerbot Detected"},
+
+  "ec6ca97832c1f6acbe59977d75d3b4e4": {"type": "md5", "text": "Triggerbot Detected [Cocuk]"},
+  "3a110e29a80384b1205a324eebc3e0903799b4de": {"type": "sha1", "text": "Triggerbot Detected [Cocuk]"},
+  "a014c958662482b6f2709ba35ee67d76cc9d82c3a1d3a065904535993e9420bb": {"type": "sha256", "text": "Triggerbot Detected [Cocuk]"},
+
+  "8157a6bc2aa71020450d65a61ad618a1": {"type": "md5", "text": "Triggerbot Detected [Vortex]"},
+  "76898af1c1885e3942afdd19f43850b45e6c7415": {"type": "sha1", "text": "Triggerbot Detected [Vortex]"},
+  "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e": {"type": "sha256", "text": "Triggerbot Detected [Vortex]"},
+
+  "a9b768c923a0610bd3e2f665d6b3d42b": {"type": "md5", "text": "Tz Project Detected"},
+  "546ee64a888d2d49524d55912ce839ab4977f947": {"type": "sha1", "text": "Tz Project Detected"},
+  "ca6052691c017cb497f4866eee4f69bdf3e1f8a6e0bf89f54362ff0d76aa4c4b": {"type": "sha256", "text": "Tz Project Detected"},
+
+  "74399b78f0bdcd59bd95bf61ca0405f3": {"type": "md5", "text": "Triggerbot [Triggerbot-xyz]"},
+  "240da822ab4a10c37ac89cc3e41dd80bfdf73f73": {"type": "sha1", "text": "Triggerbot [Triggerbot-xyz]"},
+  "d2b6467fbb3d90213382482b8472ebec9863111a21498af4a264ecb297b6ed3a": {"type": "sha256", "text": "Triggerbot [Triggerbot-xyz]"},
+
+  "5a5ccb8dd06e456a377f22b48c0298f7": {"type": "md5", "text": "HX Detected"},
+  "a8c34a1c4974478225a4370f51ea975fd30ab4ec": {"type": "sha1", "text": "HX Detected"},
+  "b421fab6652baa707329981f268a0e2c1c2e16550c113aa87d8227a848ee9d64": {"type": "sha256", "text": "HX Detected"},
+
+  "dc15fad7b495c284ae11b0c246e6e8e4": {"type": "md5", "text": "Susano Detected"},
+  "dca0a457cca14e760fc6afabde33b0bbb057c782": {"type": "sha1", "text": "Susano Detected"},
+  "db30929b083d883ad4246b8587d7503a7df4c2889683e5f6609f3ac5abdb232e": {"type": "sha256", "text": "Susano Detected"},
+
+  "45aea7daf40dccd745cf145198293c51": {"type": "md5", "text": "Eulen Detected"},
+  "2f60e2956284937d7b36ff7c928ea123accb391c": {"type": "sha1", "text": "Eulen Detected"},
+  "6b83fa4b03fb780b0e808b3dd5314fbfd55ea50389fe0343302ba2f0f0d146b1": {"type": "sha256", "text": "Eulen Detected"},
+
+  "5684c9e5bbb07b03fc70a2e89c814172": {"type": "md5", "text": "HX Spoofer Detected"},
+  "ae797b713a4633033f4f52b4de9f2501a630732b": {"type": "sha1", "text": "HX Spoofer Detected"},
+  "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {"type": "sha256", "text": "HX Spoofer Detected"},
+
+  "210a9481d81ce090586f8f08645368de": {"type": "md5", "text": "Cleaner Detected"},
+  "6d75085c7c014d33c391cf181461c5b05cb4b575": {"type": "sha1", "text": "Cleaner Detected"},
+  "9f67013c01638e0291d4c52189e02509823b3cd62b0702fa8a735f62aa4b0a38": {"type": "sha256", "text": "Cleaner Detected"},
+
+  "997a63cbc2c4155b3cc54a8a0497967d": {"type": "md5", "text": "Free Cheat Detected [Soft]"},
+  "0ab5f087dd15d8d338a1d2c23af5266ce1cfdae5": {"type": "sha1", "text": "Free Cheat Detected [Soft]"},
+  "f936b78057e9b841a868cefa00d47a922ddfece923f26390e441d4f82dfd2c25": {"type": "sha256", "text": "Free Cheat Detected [Soft]"},
+
+  "e1bca42320d1a42a5ad3656281b88e6e": {"type": "md5", "text": "Ventiq Detected"},
+  "cb403d030633cf7e77868cc37b06545881875bf4": {"type": "sha1", "text": "Ventiq Detected"},
+  "e1693c3e3879a68d6c0c161fc87703a0f06c024901ed4035c2dfe502f5e4c2fc": {"type": "sha256", "text": "Ventiq Detected"}
 }
+
