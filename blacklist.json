@@ -163,20 +163,32 @@
     "type": "sha1",
     "text": "Eulen Detected"
   },
-     "6b83fa4b03fb780b0e808b3dd5314fbfd55ea50389fe0343302ba2f0f0d146b1": {
+  "6b83fa4b03fb780b0e808b3dd5314fbfd55ea50389fe0343302ba2f0f0d146b1": {
     "type": "sha256",
     "text": "Eulen Detected"
   },
-     "5684c9e5bbb07b03fc70a2e89c814172": {
+  "5684c9e5bbb07b03fc70a2e89c814172": {
     "type": "md5",
     "text": "HX Spoofer Detected"
   },
-       "ae797b713a4633033f4f52b4de9f2501a630732b": {
+  "ae797b713a4633033f4f52b4de9f2501a630732b": {
     "type": "sha1",
     "text": "HX Spoofer Detected"
   },
-        "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {
+  "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {
     "type": "sha256",
     "text": "HX Spoofer Detected"
+  },
+  "210a9481d81ce090586f8f08645368de": {
+    "type": "md5",
+    "text": "Cleaner Detected"
+  },
+ "6d75085c7c014d33c391cf181461c5b05cb4b575": {
+    "type": "sha1",
+    "text": "Cleaner Detected"
+  },
+   "9f67013c01638e0291d4c52189e02509823b3cd62b0702fa8a735f62aa4b0a38": {
+    "type": "sha256",
+    "text": "Cleaner Detected"
   }
 }
