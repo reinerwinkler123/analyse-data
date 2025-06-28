@@ -226,5 +226,17 @@
    "f936b78057e9b841a868cefa00d47a922ddfece923f26390e441d4f82dfd2c25": {
     "type": "sha256",
     "text": "Free Cheat Detected [Soft]"
-  }
+  },
+  "e1bca42320d1a42a5ad3656281b88e6e": {
+    "type": "md5",
+    "text": "Ventiq Detected"
+  },
+    "cb403d030633cf7e77868cc37b06545881875bf4": {
+    "type": "sha1",
+    "text": "Ventiq Detected"
+  },
+    "e1693c3e3879a68d6c0c161fc87703a0f06c024901ed4035c2dfe502f5e4c2fc": {
+    "type": "sha256",
+    "text": "Ventiq Detected"
+  },
 }
