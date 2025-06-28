@@ -167,4 +167,16 @@
     "type": "sha256",
     "text": "Eulen Detected"
   },
+     "5684c9e5bbb07b03fc70a2e89c814172": {
+    "type": "md5",
+    "text": "HX Spoofer Detected"
+  },
+       "ae797b713a4633033f4f52b4de9f2501a630732b": {
+    "type": "sha1",
+    "text": "HX Spoofer Detected"
+  },
+        "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {
+    "type": "sha256",
+    "text": "HX Spoofer Detected"
+  }
 }
