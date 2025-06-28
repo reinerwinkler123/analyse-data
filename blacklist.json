@@ -94,5 +94,9 @@
   "e912b2abe846d7da03170a5c6165255f": {"type": "md5", "text": "TZ Detected [Testing]"},
   "04e6d9ea037494b4b9e7de48db28a4eb0f5efc80": {"type": "sha1", "text": "TZ Detected [Testing]"},
   "ecff7ab5b8cac044e58a244901bd76ae04ade0a2d67218d25f723497dd6784d4": {"type": "sha256", "text": "TZ Detected [Testing]"}
+  
+  "32cfe8ede0ab23a08df37245b5517643": {"type": "md5", "text": "Free Cheat Detected [Loader]"},
+  "fbc0fe142d16457cc03d7e4975c4952c9f265a61": {"type": "sha1", "text": "Free Cheat Detected [Loader]"},
+  "dc86b5c02506197a8d0fdd6fcf9eaaad5fbb0c1e38ca01f6141023b9f1c1aae8": {"type": "sha256", "text": "Free Cheat Detected [Loader]"}
 }
 
