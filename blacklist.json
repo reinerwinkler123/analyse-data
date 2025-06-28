@@ -143,16 +143,16 @@
     "type": "sha256",
     "text": "HX Detected"
   },
-  "5684c9e5bbb07b03fc70a2e89c814172": {
+  "dc15fad7b495c284ae11b0c246e6e8e4": {
     "type": "md5",
-    "text": "HX Spoofer Detected"
+    "text": "Susano Detected"
   },
-  "ae797b713a4633033f4f52b4de9f2501a630732b": {
+  "dca0a457cca14e760fc6afabde33b0bbb057c782": {
     "type": "sha1",
-    "text": "HX Spoofer Detected"
+    "text": "Susano Detected"
   },
-  "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {
+  "db30929b083d883ad4246b8587d7503a7df4c2889683e5f6609f3ac5abdb232e": {
     "type": "sha256",
-    "text": "HX Spoofer Detected"
+    "text": "Susano Detected"
   }
 }
