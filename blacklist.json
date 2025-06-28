@@ -70,9 +70,12 @@
   "e1bca42320d1a42a5ad3656281b88e6e": {"type": "md5", "text": "Ventiq Detected"},
   "cb403d030633cf7e77868cc37b06545881875bf4": {"type": "sha1", "text": "Ventiq Detected"},
   "e1693c3e3879a68d6c0c161fc87703a0f06c024901ed4035c2dfe502f5e4c2fc": {"type": "sha256", "text": "Ventiq Detected"},
-  
+
   "62ab0c75120304c72e9849b7810c7a9f": {"type": "md5", "text": "Free Cheat Detected [Aesthetic]"},
   "ea92ce66242bd2c126c2c11b26deead698b82b97": {"type": "sha1", "text": "Free Cheat Detected [Aesthetic]"},
-  "930ed1887fc88cb2c18841ae758598dce50ed22a968ae906da30ec5dd8908093": {"type": "sha256", "text": "Free Cheat Detected [Aesthetic]"}
-}
+  "930ed1887fc88cb2c18841ae758598dce50ed22a968ae906da30ec5dd8908093": {"type": "sha256", "text": "Free Cheat Detected [Aesthetic]"},
 
+  "05a8a1207dce39478c878dafcf4a83e6": {"type": "md5", "text": "Free Cheat Detected [Fision]"},
+  "44c3b97134ad3a93084b4cc4eda3eb7d1e5cb121": {"type": "sha1", "text": "Free Cheat Detected [Fision]"},
+  "d16d97431ed46e6cf83ce0fb16a0e94a6507c35d85c7d27ef8869089c683edad": {"type": "sha256", "text": "Free Cheat Detected [Fision]"}
+}
