@@ -14,5 +14,9 @@
   "ASAP": {
     "password": "godasap5959",
     "channel_id": "1388385790517710898"
+  },
+  "dma": {
+    "password": "dma",
+    "channel_id": "1388425088268894219"
   }
 }
