@@ -1,182 +1,158 @@
-[
-  {
-    "hash": "1d1efb20e0e19860877fc6680c5a418f",
+{
+  "1d1efb20e0e19860877fc6680c5a418f": {
     "type": "md5",
     "text": "Loader Detected"
   },
-  {
-    "hash": "52155e1aed76a17c5e018cfba09e71173555b64a",
+  "52155e1aed76a17c5e018cfba09e71173555b64a": {
     "type": "sha1",
     "text": "Loader Detected"
   },
-  {
-    "hash": "1eb1b22b20f4d3b103c225bbdb25c15331022647720a4ef00a6d87809dcd144f",
+  "1eb1b22b20f4d3b103c225bbdb25c15331022647720a4ef00a6d87809dcd144f": {
     "type": "sha256",
     "text": "Loader Detected"
   },
-  {
-    "hash": "2741dabecab2692ef8df5677c4aa1e36",
+  "2741dabecab2692ef8df5677c4aa1e36": {
     "type": "md5",
     "text": "Tzx Spoofer Detected"
   },
-  {
-    "hash": "48c468ba1532028c7b819bea46ae8e1b4cf14c91",
+  "48c468ba1532028c7b819bea46ae8e1b4cf14c91": {
     "type": "sha1",
     "text": "Tzx Spoofer Detected"
   },
-  {
-    "hash": "0bb760df49b1fc00f5391247274c37a66d1530c59f76d02ed93b3a39b84144cf",
+  "0bb760df49b1fc00f5391247274c37a66d1530c59f76d02ed93b3a39b84144cf": {
     "type": "sha256",
     "text": "Tzx Spoofer Detected"
   },
-  {
-    "hash": "4dc2af5df7c671082b91f7c19d619ee0",
+  "4dc2af5df7c671082b91f7c19d619ee0": {
     "type": "md5",
     "text": "Tzx Detected"
   },
-  {
-    "hash": "27f1e58e779398d1203c50a877368f2eed48fe8b",
+  "27f1e58e779398d1203c50a877368f2eed48fe8b": {
     "type": "sha1",
     "text": "Tzx Detected"
   },
-  {
-    "hash": "99c34a795a92b3558fc7a8c0c7355dbb2ddfabc0235a24d7e719d1b199bae2f4",
+  "99c34a795a92b3558fc7a8c0c7355dbb2ddfabc0235a24d7e719d1b199bae2f4": {
     "type": "sha256",
     "text": "Tzx Detected"
   },
-  {
-    "hash": "5dcd0b1554f2cb2809dd9c34d35e209d",
+  "5dcd0b1554f2cb2809dd9c34d35e209d": {
     "type": "md5",
     "text": "Free Cheat Detected"
   },
-  {
-    "hash": "91a3dd927b173185711dbaa51a2d18d07748f136",
+  "91a3dd927b173185711dbaa51a2d18d07748f136": {
     "type": "sha1",
     "text": "Free Cheat Detected"
   },
-  {
-    "hash": "ac0fc0120fbe2627ce55c1e8445948564bbe85ea8e418bf97dbbccdb2a3412f8",
+  "ac0fc0120fbe2627ce55c1e8445948564bbe85ea8e418bf97dbbccdb2a3412f8": {
     "type": "sha256",
     "text": "Free Cheat Detected"
   },
-  {
-    "hash": "025c9c1d81a59636b571bdeb5771e88b",
+  "025c9c1d81a59636b571bdeb5771e88b": {
     "type": "md5",
     "text": "Free Cheat Detected"
   },
-  {
-    "hash": "1699b594612cb29084c10117dc17762ee94c2f78",
+  "1699b594612cb29084c10117dc17762ee94c2f78": {
     "type": "sha1",
     "text": "Free Cheat Detected"
   },
-  {
-    "hash": "d16f4df6d0a0b0993748bd01ffd6f4ef8bdf1a57399f4310583986b9fbf0be40",
+  "d16f4df6d0a0b0993748bd01ffd6f4ef8bdf1a57399f4310583986b9fbf0be40": {
     "type": "sha256",
     "text": "Free Cheat Detected"
   },
-  {
-    "hash": "1028f27284a3f8fbe85149259e541084",
+  "1028f27284a3f8fbe85149259e541084": {
     "type": "md5",
     "text": "Uzui Detected"
   },
-  {
-    "hash": "f7c518847e60669ec203f0d69432ca467c82c016",
+  "f7c518847e60669ec203f0d69432ca467c82c016": {
     "type": "sha1",
     "text": "Uzui Detected"
   },
-  {
-    "hash": "b309515b9866bbc141ba0e5a72b7498cdd73e5e3ac011fedcfd7e29e352929e5",
+  "b309515b9866bbc141ba0e5a72b7498cdd73e5e3ac011fedcfd7e29e352929e5": {
     "type": "sha256",
     "text": "Uzui Detected"
   },
-  {
-    "hash": "75ec787d903ef745eaac9292bf7dc4de",
+  "75ec787d903ef745eaac9292bf7dc4de": {
     "type": "md5",
     "text": "Triggerbot Detected"
   },
-  {
-    "hash": "bd1650abbf839d9aea6aa70246e0ca3f972a02cc",
+  "bd1650abbf839d9aea6aa70246e0ca3f972a02cc": {
     "type": "sha1",
     "text": "Triggerbot Detected"
   },
-  {
-    "hash": "f0e147464d8e444d20a0c11b73c024b770afac44004a4df325e69f1151ef86b9",
+  "f0e147464d8e444d20a0c11b73c024b770afac44004a4df325e69f1151ef86b9": {
     "type": "sha256",
     "text": "Triggerbot Detected"
   },
-  {
-    "hash": "ec6ca97832c1f6acbe59977d75d3b4e4",
+  "ec6ca97832c1f6acbe59977d75d3b4e4": {
     "type": "md5",
     "text": "Triggerbot Detected [Cocuk]"
   },
-  {
-    "hash": "3a110e29a80384b1205a324eebc3e0903799b4de",
+  "3a110e29a80384b1205a324eebc3e0903799b4de": {
     "type": "sha1",
     "text": "Triggerbot Detected [Cocuk]"
   },
-  {
-    "hash": "a014c958662482b6f2709ba35ee67d76cc9d82c3a1d3a065904535993e9420bb",
+  "a014c958662482b6f2709ba35ee67d76cc9d82c3a1d3a065904535993e9420bb": {
     "type": "sha256",
     "text": "Triggerbot Detected [Cocuk]"
   },
-  {
-    "hash": "8157a6bc2aa71020450d65a61ad618a1",
+  "8157a6bc2aa71020450d65a61ad618a1": {
     "type": "md5",
     "text": "Triggerbot Detected [Vortex]"
   },
-  {
-    "hash": "76898af1c1885e3942afdd19f43850b45e6c7415",
+  "76898af1c1885e3942afdd19f43850b45e6c7415": {
     "type": "sha1",
     "text": "Triggerbot Detected [Vortex]"
   },
-  {
-    "hash": "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e",
+  "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e": {
     "type": "sha256",
     "text": "Triggerbot Detected [Vortex]"
   },
-  {
-    "hash": "a9b768c923a0610bd3e2f665d6b3d42b",
+  "a9b768c923a0610bd3e2f665d6b3d42b": {
     "type": "md5",
     "text": "Tz Project Detected"
   },
-  {
-    "hash": "546ee64a888d2d49524d55912ce839ab4977f947",
+  "546ee64a888d2d49524d55912ce839ab4977f947": {
     "type": "sha1",
     "text": "Tz Project Detected"
   },
-  {
-    "hash": "ca6052691c017cb497f4866eee4f69bdf3e1f8a6e0bf89f54362ff0d76aa4c4b",
+  "ca6052691c017cb497f4866eee4f69bdf3e1f8a6e0bf89f54362ff0d76aa4c4b": {
     "type": "sha256",
     "text": "Tz Project Detected"
   },
-  {
-    "hash": "74399b78f0bdcd59bd95bf61ca0405f3",
+  "74399b78f0bdcd59bd95bf61ca0405f3": {
     "type": "md5",
     "text": "Triggerbot [Triggerbot-xyz]"
   },
-  {
-    "hash": "240da822ab4a10c37ac89cc3e41dd80bfdf73f73",
+  "240da822ab4a10c37ac89cc3e41dd80bfdf73f73": {
     "type": "sha1",
     "text": "Triggerbot [Triggerbot-xyz]"
   },
-  {
-    "hash": "d2b6467fbb3d90213382482b8472ebec9863111a21498af4a264ecb297b6ed3a",
+  "d2b6467fbb3d90213382482b8472ebec9863111a21498af4a264ecb297b6ed3a": {
     "type": "sha256",
     "text": "Triggerbot [Triggerbot-xyz]"
   },
-  {
-    "hash": "5a5ccb8dd06e456a377f22b48c0298f7",
+  "5a5ccb8dd06e456a377f22b48c0298f7": {
     "type": "md5",
     "text": "HX Detected"
   },
-  {
-    "hash": "a8c34a1c4974478225a4370f51ea975fd30ab4ec",
+  "a8c34a1c4974478225a4370f51ea975fd30ab4ec": {
     "type": "sha1",
     "text": "HX Detected"
   },
-  {
-    "hash": "b421fab6652baa707329981f268a0e2c1c2e16550c113aa87d8227a848ee9d64",
+  "b421fab6652baa707329981f268a0e2c1c2e16550c113aa87d8227a848ee9d64": {
     "type": "sha256",
     "text": "HX Detected"
+  },
+  "5684c9e5bbb07b03fc70a2e89c814172": {
+    "type": "md5",
+    "text": "HX Spoofer Detected"
+  },
+  "ae797b713a4633033f4f52b4de9f2501a630732b": {
+    "type": "sha1",
+    "text": "HX Spoofer Detected"
+  },
+  "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {
+    "type": "sha256",
+    "text": "HX Spoofer Detected"
   }
-]
+}
