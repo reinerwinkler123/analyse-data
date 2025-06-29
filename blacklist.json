@@ -99,34 +99,4 @@
   "fbc0fe142d16457cc03d7e4975c4952c9f265a61": {"type": "sha1", "text": "Free Cheat Detected [Loader]"},
   "dc86b5c02506197a8d0fdd6fcf9eaaad5fbb0c1e38ca01f6141023b9f1c1aae8": {"type": "sha256", "text": "Free Cheat Detected [Loader]"},
 
-  "cheat.exe": {
-    "warning": "cheat.exe",
-    "text": "Warnung: Verdächtige Datei Cheat.exe entdeckt"
-  },
-  "free.exe": {
-    "warning": "free.exe",
-    "text": "Warnung: Mögliche Free.exe Datei erkannt"
-  },
-  "cleaner.exe": {
-    "warning": "cleaner.exe",
-    "text": "Warnung: Cleaner.exe gefunden"
-  },
-  "cmd.exe": {
-    "warning": "cmd.exe",
-    "text": "Hinweis: Kommandozeile cmd.exe aktiv"
-  },
-  "supercleaner.exe": {
-    "warning": "supercleaner.exe",
-    "text": "Warnung: Supercleaner.exe gefunden"
-  },
-  "scanner.exe": {
-    "warning": "scanner.exe",
-    "text": "Warnung: Scanner.exe erkannt"
-  },
-  "scann.exe": {
-    "warning": "scann.exe",
-    "text": "Warnung: Scann.exe entdeckt"
-  },
-  "bypass.exe": {
-    "warning": "bypass.exe",
-    "text": "Warnung:
+}
