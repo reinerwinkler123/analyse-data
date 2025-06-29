@@ -157,7 +157,12 @@
 
  "bc33a9b924993382d51ec6f6ada45c74": {"type": "md5", "text": "Triggerbot Detected [Fakesociety]"},
  "2946cd781926774699c1bdff62368f0c1b2ec194": {"type": "sha1", "text": "Triggerbot Detected [Fakesociety]"},
- "d269881d4a2362308a8d2578b902aca6d5632ed1d15af07f834a363b56938ea2": {"type": "sha256", "text": "Triggerbot Detected [Fakesociety]"}
- }
+ "d269881d4a2362308a8d2578b902aca6d5632ed1d15af07f834a363b56938ea2": {"type": "sha256", "text": "Triggerbot Detected [Fakesociety]"},
+
+ "dc15fad7b495c234ae11bc24666e84": {"type": "md5", "text": "Susano Detected [Possible]"},
+ "dcaa0457ca142760c6afabde350bbb5c872": {"type": "sha1", "text": "Susano Detected [Possible]"},
+ "db3029b8d8383ad4264b8587d503a7d4c289863e3f606f3ac5abdb232e": {"type": "sha256", "text": "Susano Detected [Possible]"}
+}
+
 
  
