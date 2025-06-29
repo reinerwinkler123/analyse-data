@@ -91,16 +91,20 @@
     "password": "DenizNecmi55",
     "channel_id": "1388669291171156118"
   },
-    "zs_COCO": {
+  "zs_COCO": {
     "password": "Lunder123.@",
     "channel_id": "1388828648223801419"
   },
-   "JoelAbi": {
+  "JoelAbi": {
     "password": "Dynamic1",
     "channel_id": "1388832754275323906"
   },
-   "Payna": {
+  "Payna": {
     "password": "dffwdawfa3",
     "channel_id": "1388836680131285112"
+  },
+  "tornado": {
+    "password": "dns",
+    "channel_id": "1388843306447802428"
   }
 }
