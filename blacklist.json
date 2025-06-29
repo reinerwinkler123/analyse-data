@@ -129,7 +129,11 @@
 
 "6402a03c8a27d8fcfc00bc8ebb294bca": {"type": "md5", "text": "Free Cheat Detected [Luna]"},
 "0ad8e5f99a0b5a158ee020e947084f006c851403": {"type": "sha1", "text": "Free Cheat Detected [Luna]"},
-"6808b68c3a87ec29414b3b462c7fce61b7d7499b09ea735eeccc084338733fc1": {"type": "sha256", "text": "Free Cheat Detected [Luna]"}
+"6808b68c3a87ec29414b3b462c7fce61b7d7499b09ea735eeccc084338733fc1": {"type": "sha256", "text": "Free Cheat Detected [Luna]"},
+
+"b6194b41ad52079249154818c8131183": {"type": "md5", "text": "Red Engine Detected"},
+"d513e9400820de2d8d26195eb880855e00d765f8": {"type": "sha1", "text": "Red Engine Detected"},
+"01066036116668a6142ed373b0aaa0290c1e8cab9bd2b610f1d844b26607b9f5": {"type": "sha256", "text": "Red Engine Detected"}
  }
 
  
