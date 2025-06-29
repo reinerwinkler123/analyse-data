@@ -62,7 +62,7 @@
   "997a63cbc2c4155b3cc54a8a0497967d": {"type": "md5", "text": "Free Cheat Detected [Soft]"},
   "0ab5f087dd15d8d338a1d2c23af5266ce1cfdae5": {"type": "sha1", "text": "Free Cheat Detected [Soft]"},
   "f936b78057e9b841a868cefa00d47a922ddfece923f26390e441d4f82dfd2c25": {"type": "sha256", "text": "Free Cheat Detected [Soft]"},
-
+  
   "e1bca42320d1a42a5ad3656281b88e6e": {"type": "md5", "text": "Ventiq Detected"},
   "cb403d030633cf7e77868cc37b06545881875bf4": {"type": "sha1", "text": "Ventiq Detected"},
   "e1693c3e3879a68d6c0c161fc87703a0f06c024901ed4035c2dfe502f5e4c2fc": {"type": "sha256", "text": "Ventiq Detected"},
@@ -94,12 +94,11 @@
   "e912b2abe846d7da03170a5c6165255f": {"type": "md5", "text": "TZ Detected [Testing]"},
   "04e6d9ea037494b4b9e7de48db28a4eb0f5efc80": {"type": "sha1", "text": "TZ Detected [Testing]"},
   "ecff7ab5b8cac044e58a244901bd76ae04ade0a2d67218d25f723497dd6784d4": {"type": "sha256", "text": "TZ Detected [Testing]"},
-  
+
   "32cfe8ede0ab23a08df37245b5517643": {"type": "md5", "text": "Free Cheat Detected [Loader]"},
   "fbc0fe142d16457cc03d7e4975c4952c9f265a61": {"type": "sha1", "text": "Free Cheat Detected [Loader]"},
-  "dc86b5c02506197a8d0fdd6fcf9eaaad5fbb0c1e38ca01f6141023b9f1c1aae8": {"type": "sha256", "text": "Free Cheat Detected [Loader]"}
+  "dc86b5c02506197a8d0fdd6fcf9eaaad5fbb0c1e38ca01f6141023b9f1c1aae8": {"type": "sha256", "text": "Free Cheat Detected [Loader]"},
 
-  {
   "cheat.exe": {
     "warning": "cheat.exe",
     "text": "Warnung: Verdächtige Datei Cheat.exe entdeckt"
@@ -130,11 +129,4 @@
   },
   "bypass.exe": {
     "warning": "bypass.exe",
-    "text": "Warnung: Bypass.exe Datei gefunden"
-  },
-  "bypas.exe": {
-    "warning": "bypas.exe",
-    "text": "Warnung: Bypas.exe Datei entdeckt"
-  }
-}
-
+    "text": "Warnung:
