@@ -153,7 +153,11 @@
 
  "5e7aaae9ddbd050aad3afb0e6961ca86": {"type": "md5", "text": "Red Engine Detected [Possible]"},
  "7b46889f7636a4a5517be95eb77fe72afd30c534": {"type": "sha1", "text": "Red Engine Detected [Possible]"},
- "9f59e1e5de765848beaf0245ea8c9d36e4a6f227284d43ba18a020d925a275ea": {"type": "sha256", "text": "Red Engine Detected [Possible]"}
+ "9f59e1e5de765848beaf0245ea8c9d36e4a6f227284d43ba18a020d925a275ea": {"type": "sha256", "text": "Red Engine Detected [Possible]"},
+
+ "bc33a9b924993382d51ec6f6ada45c74": {"type": "md5", "text": "Triggerbot Detected [Fakesociety]"},
+ "2946cd781926774699c1bdff62368f0c1b2ec194": {"type": "sha1", "text": "Triggerbot Detected [Fakesociety]"},
+ "d269881d4a2362308a8d2578b902aca6d5632ed1d15af07f834a363b56938ea2": {"type": "sha256", "text": "Triggerbot Detected [Fakesociety]"}
  }
 
  
