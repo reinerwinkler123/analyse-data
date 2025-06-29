@@ -149,7 +149,11 @@
 
  "8b923746242130bc39f9566cf8ab60dc": {"type": "md5", "text": "Free Aimbot Detected"},
  "430ef7824759dc2295eb6cc5591bf2558c71e350": {"type": "sha1", "text": "Free Aimbot Detected"},
- "021f53c2328113f02db282d7bde017efcf807b1021173e497c06711a15d7f98f": {"type": "sha256", "text": "Free Aimbot Detected"}
+ "021f53c2328113f02db282d7bde017efcf807b1021173e497c06711a15d7f98f": {"type": "sha256", "text": "Free Aimbot Detected"},
+
+ "5e7aaae9ddbd050aad3afb0e6961ca86": {"type": "md5", "text": "Red Engine Detected [Possible]"},
+ "7b46889f7636a4a5517be95eb77fe72afd30c534": {"type": "sha1", "text": "Red Engine Detected [Possible]"},
+ "9f59e1e5de765848beaf0245ea8c9d36e4a6f227284d43ba18a020d925a275ea": {"type": "sha256", "text": "Red Engine Detected [Possible]"}
  }
 
  
