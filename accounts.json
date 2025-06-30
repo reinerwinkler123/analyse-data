@@ -141,10 +141,14 @@
   },
   "kush123": {
     "password": "kush123.",
-    "channel_id": "1388922056145637407" 
+    "channel_id": "1388922056145637407"
   },
-   "Twister": {
+  "Twister": {
     "password": "Eray5858",
-    "channel_id": "1388929045550469184" 
+    "channel_id": "1388929045550469184"
+  },
+  "unknown": {
+    "password": "unknown",
+    "channel_id": "1389233101741228073"
   }
 }
