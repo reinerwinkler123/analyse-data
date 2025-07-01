@@ -34,5 +34,9 @@
   "Finn": {
     "password": "finn123",
     "channel_id": "1389675805616898078"
+  },
+  "EXO": {
+    "password": "lightning",
+    "channel_id": "1389679201556238509"
   }
 }
