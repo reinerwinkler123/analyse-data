@@ -6,5 +6,9 @@
   "dma": {
     "password": "dma",
     "channel_id": "1388588915287396424"
+  },
+    "riovfx": {
+    "password": "riovfx21414@3",
+    "channel_id": "1388588915287396424"
   }
 }
