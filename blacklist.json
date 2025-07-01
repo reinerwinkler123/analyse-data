@@ -161,7 +161,11 @@
 
  "dc15fad7b495c234ae11bc24666e84": {"type": "md5", "text": "Susano Detected [Possible]"},
  "dcaa0457ca142760c6afabde350bbb5c872": {"type": "sha1", "text": "Susano Detected [Possible]"},
- "db3029b8d8383ad4264b8587d503a7d4c289863e3f606f3ac5abdb232e": {"type": "sha256", "text": "Susano Detected [Possible]"}
+ "db3029b8d8383ad4264b8587d503a7d4c289863e3f606f3ac5abdb232e": {"type": "sha256", "text": "Susano Detected [Possible]"},
+ 
+ "48dc1e545e5b48e109c4fae851f828bc": { "type": "md5", "text": "Free Cheat Detected [ViLauncher]" },
+ "ca6737e77ffc5c51bc67e02bedf5dee3146612b6": { "type": "sha1", "text": "Free Cheat Detected [ViLauncher]" },
+ "950816b6954d9efe45cee20c9b475c60b77558e64bdc54153afea36dc1302eb0": { "type": "sha256", "text": "Free Cheat Detected [ViLauncher]" }
 }
 
 
