@@ -30,5 +30,9 @@
   "ZeroRp": {
     "password": "Zero123",
     "channel_id": "1388922056145637407"
+  },
+  "Finn": {
+    "password": "finn123",
+    "channel_id": "1389675805616898078"
   }
 }
