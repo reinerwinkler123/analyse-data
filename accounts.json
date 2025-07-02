@@ -50,5 +50,9 @@
   "HashV": {
     "password": "HashRp123",
     "channel_id": "1388619717584879748"
+  },
+  "Astra": {
+    "password": "_astrabot51",
+    "channel_id": "1390020861469265980"
   }
 }
