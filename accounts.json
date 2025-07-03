@@ -66,5 +66,9 @@
   "DMA": {
     "password": "DMA",
     "channel_id": "1390323303096254474"
+  },
+  "haro": {
+    "password": "haro2121",
+    "channel_id": "1390330412311773324"
   }
 }
