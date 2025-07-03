@@ -62,5 +62,9 @@
   "Blaqfx": {
     "password": "Blaq123cool!",
     "channel_id": "1390025687066218637"
+  },
+  "DMA": {
+    "password": "DMA",
+    "channel_id": "1390323303096254474"
   }
 }
