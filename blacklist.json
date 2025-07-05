@@ -1,27 +1,21 @@
 
 {
   "1d1efb20e0e19860877fc6680c5a418f": {"type": "md5", "text": "Loader Detected"},
-  "52155e1aed76a17c5e018cfba09e71173555b64a": {"type": "sha1", "text": "Loader Detected"},
   "1eb1b22b20f4d3b103c225bbdb25c15331022647720a4ef00a6d87809dcd144f": {"type": "sha256", "text": "Loader Detected"},
 
   "2741dabecab2692ef8df5677c4aa1e36": {"type": "md5", "text": "Tzx Spoofer Detected"},
-  "48c468ba1532028c7b819bea46ae8e1b4cf14c91": {"type": "sha1", "text": "Tzx Spoofer Detected"},
   "0bb760df49b1fc00f5391247274c37a66d1530c59f76d02ed93b3a39b84144cf": {"type": "sha256", "text": "Tzx Spoofer Detected"},
 
   "4dc2af5df7c671082b91f7c19d619ee0": {"type": "md5", "text": "Tzx Detected"},
-  "27f1e58e779398d1203c50a877368f2eed48fe8b": {"type": "sha1", "text": "Tzx Detected"},
   "99c34a795a92b3558fc7a8c0c7355dbb2ddfabc0235a24d7e719d1b199bae2f4": {"type": "sha256", "text": "Tzx Detected"},
 
   "5dcd0b1554f2cb2809dd9c34d35e209d": {"type": "md5", "text": "Free Cheat Detected"},
-  "91a3dd927b173185711dbaa51a2d18d07748f136": {"type": "sha1", "text": "Free Cheat Detected"},
   "ac0fc0120fbe2627ce55c1e8445948564bbe85ea8e418bf97dbbccdb2a3412f8": {"type": "sha256", "text": "Free Cheat Detected"},
 
   "025c9c1d81a59636b571bdeb5771e88b": {"type": "md5", "text": "Free Cheat Detected"},
-  "1699b594612cb29084c10117dc17762ee94c2f78": {"type": "sha1", "text": "Free Cheat Detected"},
   "d16f4df6d0a0b0993748bd01ffd6f4ef8bdf1a57399f4310583986b9fbf0be40": {"type": "sha256", "text": "Free Cheat Detected"},
 
   "1028f27284a3f8fbe85149259e541084": {"type": "md5", "text": "Uzui Detected"},
-  "f7c518847e60669ec203f0d69432ca467c82c016": {"type": "sha1", "text": "Uzui Detected"},
   "b309515b9866bbc141ba0e5a72b7498cdd73e5e3ac011fedcfd7e29e352929e5": {"type": "sha256", "text": "Uzui Detected"},
 
   "75ec787d903ef745eaac9292bf7dc4de": {"type": "md5", "text": "Triggerbot Detected"},
@@ -29,71 +23,54 @@
   "f0e147464d8e444d20a0c11b73c024b770afac44004a4df325e69f1151ef86b9": {"type": "sha256", "text": "Triggerbot Detected"},
 
   "ec6ca97832c1f6acbe59977d75d3b4e4": {"type": "md5", "text": "Triggerbot Detected [Cocuk]"},
-  "3a110e29a80384b1205a324eebc3e0903799b4de": {"type": "sha1", "text": "Triggerbot Detected [Cocuk]"},
   "a014c958662482b6f2709ba35ee67d76cc9d82c3a1d3a065904535993e9420bb": {"type": "sha256", "text": "Triggerbot Detected [Cocuk]"},
 
   "8157a6bc2aa71020450d65a61ad618a1": {"type": "md5", "text": "Triggerbot Detected [Vortex]"},
-  "76898af1c1885e3942afdd19f43850b45e6c7415": {"type": "sha1", "text": "Triggerbot Detected [Vortex]"},
   "d06dd9e09888b474c86ce9592cc0505e72d94f93aa21db1410fb3d2abd4dac1e": {"type": "sha256", "text": "Triggerbot Detected [Vortex]"},
 
   "74399b78f0bdcd59bd95bf61ca0405f3": {"type": "md5", "text": "Triggerbot [Triggerbot-xyz]"},
-  "240da822ab4a10c37ac89cc3e41dd80bfdf73f73": {"type": "sha1", "text": "Triggerbot [Triggerbot-xyz]"},
   "d2b6467fbb3d90213382482b8472ebec9863111a21498af4a264ecb297b6ed3a": {"type": "sha256", "text": "Triggerbot [Triggerbot-xyz]"},
 
   "5a5ccb8dd06e456a377f22b48c0298f7": {"type": "md5", "text": "HX Detected"},
-  "a8c34a1c4974478225a4370f51ea975fd30ab4ec": {"type": "sha1", "text": "HX Detected"},
   "b421fab6652baa707329981f268a0e2c1c2e16550c113aa87d8227a848ee9d64": {"type": "sha256", "text": "HX Detected"},
 
   "dc15fad7b495c284ae11b0c246e6e8e4": {"type": "md5", "text": "Susano Detected"},
-  "dca0a457cca14e760fc6afabde33b0bbb057c782": {"type": "sha1", "text": "Susano Detected"},
   "db30929b083d883ad4246b8587d7503a7df4c2889683e5f6609f3ac5abdb232e": {"type": "sha256", "text": "Susano Detected"},
 
   "45aea7daf40dccd745cf145198293c51": {"type": "md5", "text": "Eulen Detected"},
-  "2f60e2956284937d7b36ff7c928ea123accb391c": {"type": "sha1", "text": "Eulen Detected"},
   "6b83fa4b03fb780b0e808b3dd5314fbfd55ea50389fe0343302ba2f0f0d146b1": {"type": "sha256", "text": "Eulen Detected"},
 
   "5684c9e5bbb07b03fc70a2e89c814172": {"type": "md5", "text": "HX Spoofer Detected"},
-  "ae797b713a4633033f4f52b4de9f2501a630732b": {"type": "sha1", "text": "HX Spoofer Detected"},
   "4afd2b28d91c225a19f5f74c7e34dcf490f405ec60210705a00e4bfa526e7e15": {"type": "sha256", "text": "HX Spoofer Detected"},
 
   "210a9481d81ce090586f8f08645368de": {"type": "md5", "text": "Cleaner Detected"},
-  "6d75085c7c014d33c391cf181461c5b05cb4b575": {"type": "sha1", "text": "Cleaner Detected"},
   "9f67013c01638e0291d4c52189e02509823b3cd62b0702fa8a735f62aa4b0a38": {"type": "sha256", "text": "Cleaner Detected"},
 
   "997a63cbc2c4155b3cc54a8a0497967d": {"type": "md5", "text": "Free Cheat Detected [Soft]"},
-  "0ab5f087dd15d8d338a1d2c23af5266ce1cfdae5": {"type": "sha1", "text": "Free Cheat Detected [Soft]"},
   "f936b78057e9b841a868cefa00d47a922ddfece923f26390e441d4f82dfd2c25": {"type": "sha256", "text": "Free Cheat Detected [Soft]"},
   
   "e1bca42320d1a42a5ad3656281b88e6e": {"type": "md5", "text": "Ventiq Detected"},
-  "cb403d030633cf7e77868cc37b06545881875bf4": {"type": "sha1", "text": "Ventiq Detected"},
   "e1693c3e3879a68d6c0c161fc87703a0f06c024901ed4035c2dfe502f5e4c2fc": {"type": "sha256", "text": "Ventiq Detected"},
 
   "62ab0c75120304c72e9849b7810c7a9f": {"type": "md5", "text": "Free Cheat Detected [Aesthetic]"},
-  "ea92ce66242bd2c126c2c11b26deead698b82b97": {"type": "sha1", "text": "Free Cheat Detected [Aesthetic]"},
   "930ed1887fc88cb2c18841ae758598dce50ed22a968ae906da30ec5dd8908093": {"type": "sha256", "text": "Free Cheat Detected [Aesthetic]"},
 
   "05a8a1207dce39478c878dafcf4a83e6": {"type": "md5", "text": "Free Cheat Detected [Fision]"},
-  "44c3b97134ad3a93084b4cc4eda3eb7d1e5cb121": {"type": "sha1", "text": "Free Cheat Detected [Fision]"},
   "d16d97431ed46e6cf83ce0fb16a0e94a6507c35d85c7d27ef8869089c683edad": {"type": "sha256", "text": "Free Cheat Detected [Fision]"},
 
   "17794577c7894d07bdc5bf0e6d886bb5": {"type": "md5", "text": "Free Cheat Detected [Quantity]"},
-  "cff3bbaacd88116d2230d07e261bd94ecfaab3ed": {"type": "sha1", "text": "Free Cheat Detected [Quantity]"},
   "f8390aee720743e1bf3d8366721ddfc7a6532ff1220e640dde7fd7243e300139": {"type": "sha256", "text": "Free Cheat Detected [Quantity]"},
 
   "f64dd3ed8ce2bbe4d1a5fed88eb04683": {"type": "md5", "text": "Free Cheat Detected [Quantity V2]"},
-  "07de643d7d99f3d1b3c5b2c7839fba2f63d2ae80": {"type": "sha1", "text": "Free Cheat Detected [Quantity V2]"},
   "79e5d6d7e0197a82e5475d3fa83add845c7b7a49fec951376f76c9ec1e73da85": {"type": "sha256", "text": "Free Cheat Detected [Quantity V2]"},
   
   "e43f9693f340bd52b4f5df0417028eda": {"type": "md5", "text": "Tz Spoofer Detected"},
-  "fe1d1e829131cf2ebee02b8f282b6db91f9b9560": {"type": "sha1", "text": "Tz Spoofer Detected"},
   "1813de5a769f4675c6394dd7b049b18aab6d6a488aea2b09e62f9e0528d83e65": {"type": "sha256", "text": "Tz Spoofer Detected"},
 
   "b3bf72f8ccf4f32301418951af5513e6": {"type": "md5", "text": "TZ Detected"},
-  "874ce0252e8b5866f429bd726a65add81b62aa87": {"type": "sha1", "text": "TZ Detected"},
   "2bebd0687e7f0c941a7eeefc27cba39520ae631e16b21b61179d1f989c212cfb": {"type": "sha256", "text": "TZ Detected"},
 
   "e912b2abe846d7da03170a5c6165255f": {"type": "md5", "text": "TZ Detected [Testing]"},
-  "04e6d9ea037494b4b9e7de48db28a4eb0f5efc80": {"type": "sha1", "text": "TZ Detected [Testing]"},
   "ecff7ab5b8cac044e58a244901bd76ae04ade0a2d67218d25f723497dd6784d4": {"type": "sha256", "text": "TZ Detected [Testing]"},
 
   "32cfe8ede0ab23a08df37245b5517643": {"type": "md5", "text": "Free Cheat Detected [Loader]"},
@@ -101,107 +78,81 @@
   "dc86b5c02506197a8d0fdd6fcf9eaaad5fbb0c1e38ca01f6141023b9f1c1aae8": {"type": "sha256", "text": "Free Cheat Detected [Loader]"},
    
   "f4730d8a9bc1aeb0078ac79f91295bdd": {"type": "md5", "text": "Free Cheat Detected [Kingdom]"},
-  "d817c8d79607cc906378bc3ee58eaf2d90bef0df": {"type": "sha1", "text": "Free Cheat Detected [Kingdom]"},
   "7aad8c4dc0123c93f1e28c2e60701a0d5cb3bb1e612a58eb9a11258a946c1d53": {"type": "sha256", "text": "Free Cheat Detected [Kingdom]"},
   
   "f21563e1eadb3dd2cba49a58b26d1e0a": {"type": "md5", "text": "Free Cheatd Detcetd Loader.exe"},
-"0f5799551a78ad78b60ae481db5ef48a20dca539": {"type": "sha1", "text": "Free Cheatd Detcetd Loader.exe"},
-"29ec3a5c05f9bbaaca5255e125fb810dfab515cbe56b3d67fbe3c91a81dffe99": {"type": "sha256", "text": "Free Cheatd Detcetd [Loader.exe]"},
+  "29ec3a5c05f9bbaaca5255e125fb810dfab515cbe56b3d67fbe3c91a81dffe99": {"type": "sha256", "text": "Free Cheatd Detcetd [Loader.exe]"},
 
 "911051731fd7996445ef6df5581edfb1": {"type": "md5", "text": "Free Cheat Detected [LauncherV8]"},
-"acfaade615565475674ba164903d69b5d7dcaa81": {"type": "sha1", "text": "Free Cheat Detected [LauncherV8]"},
 "6206388c7d860ef70333c9a065c87706ec7ffbd80042354f2cc436230bad7ef1": {"type": "sha256", "text": "Free Cheat Detected [LauncherV8]"},
 
 "a6a2fed1e7dabd4349800b67876a797f": {"type": "md5", "text": "Free Cheat Detected [PhantomStart]"},
-"0cadda3c37f1b0f5db56f17fcbaebeaf634bcf95": {"type": "sha1", "text": "Free Cheat Detected [PhantomStart]"},
 "969c0c01984d7cd57aa57f30b9faf8d193df3decd493f31599d00e0932dabdd6": {"type": "sha256", "text": "Free Cheat Detected [PhantomStart]"},
 
 "98bb597b4503d8c0917ede5988c1a8f7": {"type": "md5", "text": "Free Cheat Detected [CleavixLauncher]"},
-"b96c56dec599524db8d36efe06839bed7bea46c1": {"type": "sha1", "text": "Free Cheat Detected [CleavixLauncher]"},
 "55e0a3ff5f0d79cdf1db3c0246ebd5fb74e495db39fd077c903504e53faa59a8": {"type": "sha256", "text": "Free Cheat Detected [CleavixLauncher]"},
 
 "dd7733fafd97c4aa15a44f3e2ea7fe38": {"type": "md5", "text": "Free Cheat Detected [get-cheats]"},
-"f729367a01404ba250e88455510a201695e407c3": {"type": "sha1", "text": "Free Cheat Detected [get-cheats]"},
 "19f9e060c5d2b827bae2700cb81101f6787e8e8c41edbf5d79df303d10a6b584": {"type": "sha256", "text": "Free Cheat Detected [get-cheats]"},
 
 "a5a87f707b2b9205005d04b59f779161": {"type": "md5", "text": "Free Cheat Detected [Setup.exe]"},
-"9a5935ef47ed2560da69eef526a6683b8273d4a7": {"type": "sha1", "text": "Free Cheat Detected [Setup.exe]"},
 "ab7b38a244a026046786cefbc8ffac4c0e43d9d755c0e5d7fa2498922866ac64": {"type": "sha256", "text": "Free Cheat Detected [Setup.exe]"},
 
 "6402a03c8a27d8fcfc00bc8ebb294bca": {"type": "md5", "text": "Free Cheat Detected [Luna]"},
-"0ad8e5f99a0b5a158ee020e947084f006c851403": {"type": "sha1", "text": "Free Cheat Detected [Luna]"},
 "6808b68c3a87ec29414b3b462c7fce61b7d7499b09ea735eeccc084338733fc1": {"type": "sha256", "text": "Free Cheat Detected [Luna]"},
 
 "b6194b41ad52079249154818c8131183": {"type": "md5", "text": "Red Engine Detected"},
-"d513e9400820de2d8d26195eb880855e00d765f8": {"type": "sha1", "text": "Red Engine Detected"},
 "01066036116668a6142ed373b0aaa0290c1e8cab9bd2b610f1d844b26607b9f5": {"type": "sha256", "text": "Red Engine Detected"},
 
 "68a8d7bdb7daeee5d2bf27bf36092794": {"type": "md5", "text": "Free Cheat Detected [Idk]"},
-"4db786dc2fd0506e7123b43ad8f2b7820b01bbad": {"type": "sha1", "text": "Free Cheat Detected [Idk]"},
 "4231822a26de5053ef9413968c254f8f4e6b4b345a7ccf4689b3d00ee879c3ab": {"type": "sha256", "text": "Free Cheat Detected [Idk]"},
 
 "8b923746242130bc39f9566cf8ab60dc": {"type": "md5", "text": "Free Cheat Detected [mu9kIpNQqerq.exe]"},
-"430ef7824759dc2295eb6cc5591bf2558c71e350": {"type": "sha1", "text": "Free Cheat Detected [mu9kIpNQqerq.exe]"},
 "021f53c2328113f02db282d7bde017efcf807b1021173e497c06711a15d7f98f": {"type": "sha256", "text": "Free Cheat Detected [mu9kIpNQqerq.exe]"},
 
 "cc506d83d5cbae115aaa28ccc78f8e90": {"type": "md5", "text": "Free Cheat Detected [747 Selling]"},
-"8baa691b747b91d524ef4e7ed2fd0dc36c723ec1": {"type": "sha1", "text": "Free Cheat Detected [747 Selling]"},
 "264c388ba447f1b7d9e3427018be2251aa4749132162fc79935fa1abdf089638": {"type": "sha256", "text": "Free Cheat Detected [747 Selling]"},
 
  "8b923746242130bc39f9566cf8ab60dc": {"type": "md5", "text": "Free Aimbot Detected"},
- "430ef7824759dc2295eb6cc5591bf2558c71e350": {"type": "sha1", "text": "Free Aimbot Detected"},
  "021f53c2328113f02db282d7bde017efcf807b1021173e497c06711a15d7f98f": {"type": "sha256", "text": "Free Aimbot Detected"},
 
  "5e7aaae9ddbd050aad3afb0e6961ca86": {"type": "md5", "text": "Red Engine Detected [Possible]"},
- "7b46889f7636a4a5517be95eb77fe72afd30c534": {"type": "sha1", "text": "Red Engine Detected [Possible]"},
  "9f59e1e5de765848beaf0245ea8c9d36e4a6f227284d43ba18a020d925a275ea": {"type": "sha256", "text": "Red Engine Detected [Possible]"},
 
  "bc33a9b924993382d51ec6f6ada45c74": {"type": "md5", "text": "Triggerbot Detected [Fakesociety]"},
- "2946cd781926774699c1bdff62368f0c1b2ec194": {"type": "sha1", "text": "Triggerbot Detected [Fakesociety]"},
  "d269881d4a2362308a8d2578b902aca6d5632ed1d15af07f834a363b56938ea2": {"type": "sha256", "text": "Triggerbot Detected [Fakesociety]"},
 
  "dc15fad7b495c234ae11bc24666e84": {"type": "md5", "text": "Susano Detected [Possible]"},
- "dcaa0457ca142760c6afabde350bbb5c872": {"type": "sha1", "text": "Susano Detected [Possible]"},
  "db3029b8d8383ad4264b8587d503a7d4c289863e3f606f3ac5abdb232e": {"type": "sha256", "text": "Susano Detected [Possible]"},
  
  "48dc1e545e5b48e109c4fae851f828bc": { "type": "md5", "text": "Free Cheat Detected [ViLauncher]" },
- "ca6737e77ffc5c51bc67e02bedf5dee3146612b6": { "type": "sha1", "text": "Free Cheat Detected [ViLauncher]" },
  "950816b6954d9efe45cee20c9b475c60b77558e64bdc54153afea36dc1302eb0": { "type": "sha256", "text": "Free Cheat Detected [ViLauncher]" },
 
  "f21563e1eadb3dd2cba49a58b26d1e0a": { "type": "md5", "text": "Free Cheat Detected [Galaxy]" },
- "0f5799551a78ad78b60ae481db5ef48a20dca539": { "type": "sha1", "text": "Free Cheat Detected [Galaxy]" },
  "29ec3a5c05f9bbaaca5255e125fb810dfab515cbe56b3d67fbe3c91a81dffe99": { "type": "sha256", "text": "Free Cheat Detected [Galaxy]" },
 
  "372aa270f36ff947e7e22991bfb210bf": { "type": "md5", "text": "Free Cheat Detected [GuapCheat]" },
- "e08d786eac12790366958ff7cfff7162e88cfa1a": { "type": "sha1", "text": "Free Cheat Detected [GuapCheat]" },
  "bd51ef3d01a19831f9aa454ed2c9aab56ca5409409cf34c07fb29d9dc17c5298": { "type": "sha256", "text": "Free Cheat Detected [GuapCheat]" },
 
  "262775d54fc78ad1aede06149cc6e9d2": { "type": "md5", "text": "Free Cheat Detected [Setup]" },
- "1495f251814cd394b42a12d6e68eb80b265308d2": { "type": "sha1", "text": "Free Cheat Detected [Setup]" },
  "fad9b19d2143ea0e1ecb7a49a7b70954c9afefdca2c3c8df0fa5cedf2659bd49": { "type": "sha256", "text": "Free Cheat Detected [Setup]" },
 
-"b401a3076dfbc03d68a26d40b136ffa4": { "type": "md5", "text": "Free Cheat Detected [QuantumLoader]" },
- "f7003f64b191efd5dfaedeb06c8c8d11ece07bc3": { "type": "sha1", "text": "Free Cheat Detected [QuantumLoader]" },
- "19855ea368a793390d8647161236ae09b8ec3393b97cdd4aca3d167e34a239f3": { "type": "sha256", "text": "Free Cheat Detected [QuantumLoader]" },
+ "b401a3076dfbc03d68a26d40b136ffa4": { "type": "md5", "text": "Free Cheat Detected [QuantumLoader]" },
+  "19855ea368a793390d8647161236ae09b8ec3393b97cdd4aca3d167e34a239f3": { "type": "sha256", "text": "Free Cheat Detected [QuantumLoader]" },
 
  "9af373109d8a1485d40ac8ab9fe72471": { "type": "md5", "text": "Free Cheat Detected [Inst]" },
- "682a2b6d1304b478d96176c7e725c467bf2e622d": { "type": "sha1", "text": "Free Cheat Detected [Inst]" },
  "355c6d68ae3495797845710271d05874a89e5bd914fa8f1361f67a89fdd8d053": { "type": "sha256", "text": "Free Cheat Detected [Inst]" },
 
  "7aa94603be1f83c51661df24c0f88ec3": { "type": "md5", "text": "Free Cheat Detected [Launcher V8]" },
- "DgS8eVBC3JeQLoBcxkZ1i36hMuQ1NQwtS3CqLFsU8j8D": { "type": "sha1", "text": "Free Cheat Detected [Launcher V8]" },
  "cb893f43012c270c23043563282e012f2552f7c2996f8951cb5672b197511bab": { "type": "sha256", "text": "Free Cheat Detected [Launcher V8]" },
 
  "2a58056ea95b4fc2d21d7936048c3c9e": { "type": "md5", "text": "Free Cheat Detected [Set-up]" },
- "9e24dfce556f1fa8aa1a904b77dc4ccd435fcda6": { "type": "sha1", "text": "Free Cheat Detected [Set-up]" },
  "803c242a85299207fc7d4d3ba0c52f185992c124d6139820ea47f865209388ef": { "type": "sha256", "text": "Free Cheat Detected [Set-up]" },
  
  "4b49e20e1de5d3968e3a9792b91200bf": { "type": "md5", "text": "Free Cheat Detected [SoftWare]" },
- "7b7329cbf61fb50646b8cd002ac78eb81c2a9b0e": { "type": "sha1", "text": "Free Cheat Detected [SoftWare]" },
  "3904a4e28f94f5804894f47274144d43e314d8950e7a0fd4689c776d503304ad": { "type": "sha256", "text": "Free Cheat Detected [SoftWare]" },
 
  "554b1b3938ee61ab9e184d5993f8e602": { "type": "md5", "text": "Free Cheat Detected [FusionLoader]" },
- "70ec0664b5c344e9589d8448c3503deffccaab3d": { "type": "sha1", "text": "Free Cheat Detected [FusionLoader]" },
  "b5912c4a8714b3470b18f49ff65af406a5a2e84aac1d3963978446f084c9bf8e": { "type": "sha256", "text": "Free Cheat Detected [FusionLoader]" }
 }
 
